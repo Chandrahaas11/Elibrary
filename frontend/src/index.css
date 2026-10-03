@@ -1,0 +1,7 @@
+body {
+  background-color:#1a1a1a ; /* A light grey background for the app */
+}
+.custom-placeholder::placeholder {
+  color: #145461; /* Bootstrap info color */
+  opacity: 1;     /* make sure opacity isn't too low */
+}
